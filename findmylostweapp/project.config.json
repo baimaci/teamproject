@@ -1,0 +1,99 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"enhance": true
+	},
+	"appid": "wx2ae28120cf1680c6",
+	"projectname": "lostandfound",
+	"libVersion": "2.8.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/mine",
+					"pathName": "pages/mine/mine",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/profile/profile",
+					"pathName": "pages/profile/profile",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/middle/middle",
+					"pathName": "pages/middle/middle",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/publish/publish",
+					"pathName": "pages/publish/publish",
+					"query": "type=lost",
+					"scene": null
+				},
+				{
+					"id": 5,
+					"name": "pages/detail/detail",
+					"pathName": "pages/detail/detail",
+					"query": "id=f3db088f5e89a035005bf8724b734990",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/message/list",
+					"pathName": "pages/message/list",
+					"query": "id=f3db088f5e89a035005bf8724b734990",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/message/send",
+					"pathName": "pages/message/send",
+					"query": "uid=oVLd65WydG_hMT3zcqJdf9BP116M",
+					"scene": null
+				}
+			]
+		}
+	}
+}
