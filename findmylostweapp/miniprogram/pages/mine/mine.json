@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "tabbar": "../../tabbarComponent/tabbar",
-    "m-login" : "/components/login/login"
-  },
-  "navigationBarTitleText": "个人中心"
-}
